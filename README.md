@@ -1,1 +1,1 @@
-# Programowanie-obiektowe
+# Programowanie-obiektowe projekt i laboratoria
